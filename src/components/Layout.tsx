@@ -18,7 +18,7 @@ const Layout = ({ children }: LayoutProps) => {
       </main>
       <footer className="py-6 border-t border-border">
         <div className="container mx-auto px-4 text-center text-sm text-muted-foreground">
-          <p>Designed with precision • Built with care</p>
+          <p>Designed by RK with precision • Built with care</p>
         </div>
       </footer>
     </div>
